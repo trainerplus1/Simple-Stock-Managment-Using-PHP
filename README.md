@@ -1,2 +1,2 @@
 # Simple-Stock-Managment-Using-PHP
-This Simple Stock Managment Will Allow Users to Add Stock to Their Inventory and Make Them Stock Out When Ever They Need
+This is an Simple Stock Managment System Developed Using PHP. This Software has The Ability to Increase QTY of The Product Along With Barcode & SKU. Simply This Can Be Used in Any Store. This Software Will Helps You to Maintain The Outward QTY of a Product and QTY of the product which comes to your store. It also, priovide reports which users can import to Excel Sheet.
